@@ -1,0 +1,1 @@
+cargo build &&  cp ../../target/debug/libnapi.dylib ./libnapi.node && node test.js
